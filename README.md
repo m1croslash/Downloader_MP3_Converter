@@ -1,6 +1,6 @@
 # Downloader_MP3_Converter
 ## Guide:
-* **First step you need download ```ffmpeg```. Recommending example file ```ffmpeg-8.1-essentials_build.zip```**
+* **First step you need download ```ffmpeg```. Recommending example file ```ffmpeg-8.1-essentials_build```**
 __________________________________
 ## Git 
 ```bash
