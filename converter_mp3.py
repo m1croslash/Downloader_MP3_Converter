@@ -22,4 +22,4 @@ if __name__ == '__main__':
     link = input('Link: ').strip()
     converter_mp3(link)
   
-# So...first step you need download ffmpeg, zip file example: ffmpeg-8.1-essentials_build
+# So...first step you need download ffmpeg, recomending file example: ffmpeg-8.1-essentials_build
