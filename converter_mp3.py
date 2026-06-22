@@ -6,7 +6,7 @@ def converter_mp3(url, save_path='./Downloads'): # Auto-Create folder with your 
 
     ydl_opts = {
         'format': 'bestaudio/best',
-        'ffmpeg_location': r'', # Location ffmpeg on OS
+        'ffmpeg_location': r'', # Location ffmpeg on OS (bin folder)
         'postprocessors': [{
             'key': 'FFmpegExtractAudio',
             'preferredcodec': 'mp3',
